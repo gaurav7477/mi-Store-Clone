@@ -11,7 +11,8 @@
 
 .logo{
     background-color: orangered;
-    width: 58px;
+    width: 83px;
+    height: 49px;
     border-radius: 20px;
     overflow: hidden;
     cursor: pointer;
@@ -19,8 +20,10 @@
     right: 2vmax;
 }
 #logoImage{
+    width: 106px;
+    height: 34px;
     transition:all 0.2s;
-    transform: translateX(-58px);
+    transform: translateX(-4px);
 }
 
 #logoImage:hover{
